@@ -3,12 +3,19 @@
 
 
 
-## CURRENT DIMENSIONS 
-  WEIGHT
+## CURRENT DIMENSIONS OF R1
+    WEIGHT-> 32 kg
+    BASE DIMENSION -> 1000mm x 1000mm 
+   
 
-# R1 CHASSIS 
+# CHASSIS 
 ![5c1bfed3-5c9c-45b3-8268-e3929f4c7219](https://github.com/user-attachments/assets/1d773ebe-050a-4920-8ca4-3ccfd8cf3d03)
-# R2 CHASSIS 
+
+## CURRENT DIMENSIONS OF R2
+    WEIGHT-> 18 kg
+    BASE DIMENSION -> 800mm x 800mm
+   
+# CHASSIS 
 ![c56cf634-7f26-4671-8b7c-29d8922ac410](https://github.com/user-attachments/assets/ca94aa8e-f85a-4803-94a9-dcfa8d4413ac)
 
 
